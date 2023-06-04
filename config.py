@@ -1,1 +1,1 @@
-API_URL = "https://3355bca4-5c96-490a-8450-d0bca9187f1a.serverhub.praktikum-services.ru"
+API_URL = "https://e4614979-8581-4d9c-9b35-77bf0203fac7.serverhub.praktikum-services.ru"
