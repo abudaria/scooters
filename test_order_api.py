@@ -1,3 +1,5 @@
+# Дарья Доброва, 5 когорта - Финальный проект, инженер по тестированию плюс
+
 import pytest
 import requests
 from config import API_URL
